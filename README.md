@@ -1,2 +1,2 @@
-# 2404-api-node-express
-Projeto utilizado no curso da Alura
+api-node-express-mongodb
+Projeto praticado no curso da Alura
